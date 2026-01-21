@@ -104,3 +104,6 @@ The app should now be running on your local host.
 B.Tech Computer Science and Engineering
 Class of 2026
 22WU0101028
+
+
+![Demo Image](demo.png)
