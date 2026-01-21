@@ -1,5 +1,6 @@
-require('dotenv').config(); // MUST be the first line
+require('dotenv').config(); 
 const express = require('express');
+const path = require('path'); 
 const cors = require('cors');
 const chatRoutes = require('./routes/chatRoutes'); // Import routes
 
